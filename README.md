@@ -4,6 +4,9 @@ A function for loading CSS asynchronously
 [c]2014 @scottjehl, Filament Group, Inc.
 Licensed MIT
 
+
+-- This is a slightly changed fork of the original loadCSS as the owners at filamentgroup were not very fast at fixing bugs / accepting pulls.
+
 ## Usage
 
 Place the [`loadCSS` function](https://github.com/filamentgroup/loadCSS/blob/master/loadCSS.js) inline in the `head` of your page (it can also be included in an external JavaScript file if preferable).
